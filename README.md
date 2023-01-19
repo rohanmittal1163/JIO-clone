@@ -30,7 +30,7 @@ The project is clone to a single page of https://www.jio.com/
 
 - Download or clone this repository.
 ```
-git clone https://github.com/rohanmittal163/TekLeader-clone.git
+git clone https://github.com/rohanmittal163/JIO-clone.git
 ```
 ## ❤ Contribute
 This project is open source and we are happy to receive contributions. If you would like to contribute, please follow these steps:

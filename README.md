@@ -5,7 +5,7 @@
 This frontend project uses HTML, CSS, TailwindCSS, Javascript. 
 The project is clone to a single page of https://www.jio.com/
 
-# ⚜ DEMO
+# ⚜ DEMO -- https://jio1163.netlify.app/
 
 ![image](https://user-images.githubusercontent.com/97821844/213438746-c7b715ac-d0b4-42ec-b726-54d1340a6f1d.png)
 ![image](https://user-images.githubusercontent.com/97821844/213438822-8e21ad35-c4a8-4e77-8acb-f54c5dbde44b.png)
